@@ -1,4 +1,3 @@
-#IoUT-Seminar: Internet of (Underwater) Things
 This project is a demonstration of the topic “Underwater Swarm Localization with Acoustic Communication”. It involves the evaluation of two different schemes within the Ultra-Short Baseline (USBL) framework:
 ✅ Static anchor scheme
 ✅ Dynamic anchor scheme
